@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Week 2"
+date:   2020-02-24 22:01:44 -0400
+categories: The Entrepreneur's Journey
+author: Daniel Frye
+---
+# **Monday, February 24, 2020**
+
+Monday morning I got back from the dentist, sat down at my desk, and without warning the world was real. I had no job. I had no paycheck. I was on my own.
+
+Holy shit what have I done.
+
+A pervasive feeling of panic flooded my brain. I was shutdown. Entirely. It was like the wind got knocked out of me mentally.
+
+I leaned back in the chair and just starred at the screen for what seemed like eternity. It was an entirely massive fear response that came out of nowhere.
+
+All I could think: *We have just lost cabin pressure.*
+
+I slowly picked myself up and for the next couple of hours I started working on various things left over from last week, listening to some AWS training classes and labs, doing some reading on the internet, setting up email and our domain, and trying to distract myself from this feeling of looming doom. I have a new appreciation for anyone managing an Office 365 tenant.
+
+It was a futile exercise. Every time I’d start focusing on something, this nagging itch would come slithering back and I just couldn’t get the focus I wanted. It was like I couldn’t shake off this cloak of doom. A good analogy is the kid that keeps saying “Mom. Mom. Mom. Mom. Mom.” while she’s busy, and then when the mom turns around and finally gives the kid the attention he/she so desperately craves, the kid just replies “Hi.” and grins sheepishly. It’s a boat anchor.
+
+Ultimately, I ceded defeat and ended up just taking a restless nap on the couch.
+
+*What have I done. Holy shit.*
+
+Tuesday, Wednesday, and Thursday were a huge waste. I had finally reached agreement with the company that made my car to buy it back under the Lemon Law due to repeated issues with it. The deal was I needed to drop my car at the dealer, they would take off the aftermarket parts, and then put them on the new car free of charge. Turns out they couldn’t get it done on time, I ended up spending a day and a half sitting around the dealer, and it still wasn’t done right. I tried to do some work on the startup while I was there, but it was much less productive than I wanted it to be.
+
+I was ready to be done with the week by the time Friday came around. I had gotten nothing done I wanted to, other than some AWS training and doing a whole lot of reading about FIDO, FIDO2, WebAuthN, and Golang (Go). I was no closer to starting to write code, no closer to documenting our business model, no closer to anything other than letting the Cloud of Doom claim my emotions.
+
+The only redeeming thing for the week was that the Olympic Marathon Trails were in town Saturday and I was looking forward to going to see them with my wife and some of her friends. I was scheduled to run the Atlanta Marathon on Sunday and that was weighing on me a bit too. I hadn’t done much to keep my training up since my last marathon in January and I had a feeling I was setting myself up for injury, something my wife conveniently reminded me of every few hours, but at the same time, I was too stubborn to not do the race because I had committed to doing it.
+
+Ultimately, we didn’t go to the Marathon Trials, but watched them on TV instead, and I set a new personal best (PR) by about 30 minutes in the Atlanta Marathon. Trump’s speech in the middle of the Trials got me to thinking though … maybe this Coronavirus thing is actually going to really disrupt the US economy. I made a reminder to myself to sell off some of the stocks in my portfolio and hoard a little bit of extra cash since my stock and savings accounts were essentially my only source of income. I was heavy on Apple and Microsoft, two pretty safe stocks all things considered, because of course everyone needs iPhones and Office 365.
+
+And we all know now how that is going to end up for me.

@@ -1,0 +1,39 @@
+---
+id: 1120
+title: Clutch adjustments, truck bed liner, and fixing the steering bushing
+date: 2015-06-28T18:51:28+00:00
+author: Daniel
+layout: post
+guid: http://danielfrye.com/?p=1120
+permalink: /2015/06/28/clutch-adjustments-truck-bed-liner-and-fixing-the-steering-bushing/
+categories:
+  - The Caterham Journey
+tags:
+  - build blog
+  - Caterham
+---
+It&#8217;s been a couple weeks since the car has been &#8220;done&#8221; but had a few issues to take care of since. Rather than post a whole bunch of posts I&#8217;m doing just one with the highlights from the last week and a half or so.
+
+First up was putting on the correct shift knob that Caterham sent. I had been sent a silver 5-speed knob with the car but had a 6-speed transmission. Derek was kind enough to send on my choice of color for the 6-speed knob; the black looks great and better than the silver in my opinion!
+
+[<img loading="lazy" class="aligncenter size-full wp-image-1121" src="http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.04.11.jpg" alt="Chrome and black knobs" width="2448" height="3264" srcset="http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.04.11.jpg 2448w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.04.11-225x300.jpg 225w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.04.11-768x1024.jpg 768w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.04.11-1200x1600.jpg 1200w" sizes="(max-width: 2448px) 100vw, 2448px" />](http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.04.11.jpg)
+
+Next up was dealing with the oil leak from the first drives. After wiping down the motor and getting it clean, I gave the engine a start and let it run for a bit while watching the left side of the motor. What I found is the oil isn&#8217;t coming from the side of the block, but through the oil pressure sender which I&#8217;ll admit, I did not wrap in teflon tape. So out with the box end wrench, removed pressure sender, wrapped in teflon, then re-attached. A tiny bit of oil dribbled out but wasn&#8217;t enough to really worry about. Cleaned that up, retested, and no oil leak.
+
+[<img loading="lazy" class="aligncenter size-full wp-image-1122" src="http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.05.54.jpg" alt="No teflon on pressure sender" width="3264" height="2448" srcset="http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.05.54.jpg 3264w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.05.54-300x225.jpg 300w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.05.54-768x576.jpg 768w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.05.54-1024x768.jpg 1024w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.05.54-1200x900.jpg 1200w" sizes="(max-width: 3264px) 100vw, 3264px" />](http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.05.54.jpg)
+
+The other fix was to re-attach the upper steering bushing; you can see below how far it had worked itself out because the rubber knobs weren&#8217;t properly located into the dash during the build. I removed the steering wheel using a 3-prong puller then followed another build blog&#8217;s advice of using a small piece of 3/4&#8243; PVC pipe slid over the steering column to tap the bushing into the dash. Home Depot had a 2&#8242; section of 3/4&#8243; pipe for $3 which worked perfect along with liberal use of silicone lubricant and a rubber mallet.
+
+[<img loading="lazy" class="aligncenter size-full wp-image-1123" src="http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.55.49.jpg" alt="Steering bushing coming out" width="3264" height="2448" srcset="http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.55.49.jpg 3264w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.55.49-300x225.jpg 300w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.55.49-768x576.jpg 768w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.55.49-1024x768.jpg 1024w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.55.49-1200x900.jpg 1200w" sizes="(max-width: 3264px) 100vw, 3264px" />](http://danielfrye.com/wp-content/uploads/2015/07/2015-06-14-13.55.49.jpg)
+
+Another add was to coat the underside of the rear and front fiberglass wings with truck bed liner. The process went fine, but two notes &#8211; 1) that stuff STINKS so make sure you do it where there is ventilation and 2) that stuff gets EVERYWHERE. DO NOT TOUCH THE CAR WHILE WORKING ON THE WINGS. I was diligent and thankfully didn&#8217;t have an issue but did get some smudges on wings themselves. Water and a rag will get them off while the paint is wet, once dry though, it&#8217;s never coming off.
+
+After driving the car a tad more I realized I was going to need to adjust the clutch pedal for a longer throw. I remembered reading a bit about this on [Dave Fernlahone&#8217;s blog and his instructions were perfect](https://fernlahone.wordpress.com/2013/05/28/601/). Getting your hands down into the footwell with a couple wrenches through the top access panel is a pain in the ass though, plan on taking a couple hours for such a simple job. Pics below of the footwell and the locknuts to adjust. The handwritten diagram on Dave&#8217;s site explains things really well.
+
+[<img loading="lazy" class="aligncenter size-full wp-image-1128" src="http://danielfrye.com/wp-content/uploads/2015/07/2015-06-20-00.22.27.jpg" alt="The size of the foot box" width="3264" height="2448" srcset="http://danielfrye.com/wp-content/uploads/2015/07/2015-06-20-00.22.27.jpg 3264w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-20-00.22.27-300x225.jpg 300w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-20-00.22.27-768x576.jpg 768w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-20-00.22.27-1024x768.jpg 1024w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-20-00.22.27-1200x900.jpg 1200w" sizes="(max-width: 3264px) 100vw, 3264px" />](http://danielfrye.com/wp-content/uploads/2015/07/2015-06-20-00.22.27.jpg)
+
+[<img loading="lazy" class="aligncenter size-full wp-image-1129" src="http://danielfrye.com/wp-content/uploads/2015/07/2015-06-20-00.22.51.jpg" alt="Clutch locknuts to adjust" width="3264" height="2448" srcset="http://danielfrye.com/wp-content/uploads/2015/07/2015-06-20-00.22.51.jpg 3264w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-20-00.22.51-300x225.jpg 300w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-20-00.22.51-768x576.jpg 768w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-20-00.22.51-1024x768.jpg 1024w, http://danielfrye.com/wp-content/uploads/2015/07/2015-06-20-00.22.51-1200x900.jpg 1200w" sizes="(max-width: 3264px) 100vw, 3264px" />](http://danielfrye.com/wp-content/uploads/2015/07/2015-06-20-00.22.51.jpg)
+
+Lastly, I&#8217;m having problems with hitting the gas when I mean to hit the brake. The brake and the gas are so close together I almost have to drive barefoot (I did, it&#8217;s much easier without shoes). To that end I bought a new pair of driving shoes; Piloti Prototipo. However, even with those the pedals are still too close for my feet and they aren&#8217;t that big &#8211; US size 9. As a result, I also [ordered a pair of Nike Davinho&#8217;s](http://www.academy.com/shop/pdp/nike-adults-davinho-indoor-soccer-shoes/pid-672107?N=619714336&count=3&affcode=42&kwid=ps_cse&cid=PLA_023570773&kwid=productads-plaid%5E136813814718-sku%5E023570773-adType%5EPLA-device%5Ec-adid%5E69707526198) which are very narrow indoor soccer shoes with a thin rubber sole. Will see how they work next time I go out.
+
+Daniel
