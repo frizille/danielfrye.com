@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Protected: Week 16 | danielfrye.com</title>
+<meta name="generator" content="Jekyll v4.1.1" />
+<meta property="og:title" content="Protected: Week 16" />
+<meta name="author" content="Daniel" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Monday, June 1, 2020" />
+<meta property="og:description" content="Monday, June 1, 2020" />
+<link rel="canonical" href="http://localhost:4000/2020/06/06/week-16/" />
+<meta property="og:url" content="http://localhost:4000/2020/06/06/week-16/" />
+<meta property="og:site_name" content="danielfrye.com" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-06-05T23:02:00-04:00" />
+<script type="application/ld+json">
+{"headline":"Protected: Week 16","dateModified":"2020-06-05T23:02:00-04:00","datePublished":"2020-06-05T23:02:00-04:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2020/06/06/week-16/"},"author":{"@type":"Person","name":"Daniel"},"description":"Monday, June 1, 2020","url":"http://localhost:4000/2020/06/06/week-16/","@type":"BlogPosting","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="danielfrye.com" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">danielfrye.com</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Protected: Week 16</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2020-06-05T23:02:00-04:00" itemprop="datePublished">Jun 5, 2020
+      </time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">Daniel</span></span></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <h4 id="monday-june-1-2020">Monday, June 1, 2020</h4>
+
+<p>What a weird weekend. Apparently there were riots over the weekend in Buckhead, a couple miles from us, and there were more protests scheduled for Monday night. This is such a surreal experience. Like I don’t have enough to worry about, I’ve got Covid to be concerned with and everything happening with that, and now we have riots. I mean… what the… hell. Anyway, there’s nothing I can do about it so I’m just going to stay in my lane and keep focusing on what I can control, namely an NSF submission which has to go in this week.</p>
+
+<p>Monday morning I got the Letter of Support from McGreggor and that rounded out everything we needed to submit. I got the budget changes from Tom over the weekend, keyed those into the NSF portal, and then setup time with Tom to review just so we could have a second set of eyes on it. He and I caught up mid-day and everything looked correct.</p>
+
+<p>There’s not much more we could do. We had three great Letters of Support, we got all the business stuff vetted and written/edited properly in the main proposal, and the budget is reasonable with regards to our costs and proposed use of the funds. I loaded up the last of the documents into the NSF portal … and hit submit. As of June 1st, we were ready to submit. I held off hitting the final submit button in case we had to make any last second tweaks before the June 4th deadline, but it was all set to go.</p>
+
+<p>Getting to the point where we were ready to submit was kind of anticlimactic. After all the work we put into it, I don’t know how many hours of discussion, writing, re-writing, analyzing, talking to other folks to level set our expectations, I mean … it felt hollow. Like we needed some trumpets playing or something… I don’t know.</p>
+
+<p>Monday mid-day I met with Ben for the first time to start writing code. We started with the Windows agent and walked through what we needed to do, but mid-discussion transitioned into the backend core design. The Windows agent is simple, in that it basically reads a bunch of information from the laptop/desktop, and then passes it to the backend. If we don’t have the backend core working, then the utility of the Windows agent isn’t worth much.</p>
+
+<p>We ended up calling it a day after a couple hours of talking. He was going to look at the Windows stuff while I did some more diagramming and analysis of the core functionality we needed with regards to authentication. We are basically inventing an entirely new way to authenticate, which means we need to account for all the different types of usage patterns and use cases. That’s a fairly involved process of diagramming and pattern analysis.</p>
+
+<p>One to one, one to many, many to one, none to one, none to many, many to none… the permutations between users, devices, apps, and data is somewhat complex in that some patterns require the same logic and in others inverse logic. Putting things on paper and diagramming it out was hugely helpful. Lucidchart is a resource hog on my PC, but worked exceeedingly well for what we were doing. We took notes directly into Lucidchart which was also helpful.</p>
+
+<p>Tuesday was a repeat of Monday with Ben. We went through the diagrams I did Monday afternoon and night, came to a few conclusions on design, and then started digging into the backend and databases.</p>
+
+<p>We agreed a relational DB wasn’t going to work and a NOSQL or indexing database, like Dynamo, might be a better bet. We talked slightly about something like quantum ledger, but that’s more suited to recording activity and logs long term, since it’s immutable, than it is with frequently accessed data storage. We agreed we’d chat with Paul next week once he’s back from vacation and that Dynamo seemed like the best way to proceed until then.</p>
+
+<p>Tuesday afternoon I drove up to Marietta and sat outside on a patio and shared some BBQ with Clay, a security engineer that used to work for me at Cedar. It was good catching up with him. He and I hadn’t really had a chance to talk too much since I left three months or so ago and it was helpful to bounce some AWS questions off him while we ate. Toasting to a submitted NSF proposal also felt good.</p>
+
+<p>After I left my late lunch / early dinner with Clay, I spent a couple hours taking the Jeep for a drive. Top off, doors off, just wind-in-your-hair driving. It was exactly what I needed. I thought about the NSF proposal, databases, and just listened to music. The weather was perfect – not too hot, not too humid – just perfect. the drive was exactly what I needed to recenter myself after putting my all into the NSF proposal and being a little chaffed at struggling with the Windows agent last week.</p>
+
+<p>Wednesday Ben and I got together again to review everything I’d been thinking about during my drive. We came to the same conclusions we had on Tuesday after giving it more thought and ended up each going our own way to do some more reading and learning about the various DB platforms in AWS. We’re literally starting at ground zero for both of us so there’s a lot to learn.</p>
+
+<p>In some ways the learning makes it fun, but in others it makes it very scary because everywhere we turn is a new thing to figure out. We don’t know what we don’t know kind of thing. But lots of opportunity to learn.</p>
+
+<p>Wednesday afternoon I decided to submit the NSF proposal. I hadn’t thought of anything else we needed to change or tweak since Monday, and didn’t want to wait until the day of it being due in case we missed the deadline, so I hit submit.</p>
+
+<p>Except it didn’t submit. HOLY @!#@#@ING WHAT THE !@#! !@#!. Ok, calm down. Apparently the NSF had changed the submission documents for the Current and Pending Support form. Since I had changed the form on Monday, it required me to use the new format rather than the old one when I submitted, but when I uploaded it wasn’t checking format correctness. Momentary panic, I figured it out, and we got submitted. But total freaking panic before that.</p>
+
+<p>So NSF was submitted. Finally. After what seems like eternity. I felt relieved, yet also recognized that the waiting had just begun. Hopefully we’ll find something out by September… which feels like far, far in the future.</p>
+
+<p>Mike and I met on Thursday. We both agreed that, with the NSF submission behind us, we had to start nailing development quickly.</p>
+
+<p>My general perspective, and Mike agreed, was that the NSF submission process served us well. It forced us to develop a business plan of sorts, at least design our business and come up with a plan for its operation, that was moving us towards a product design that had the possibility of solving a customer problem, i.e. passwords. Because passwords suck. And two-factor is just a way to make the problem worse, not better.</p>
+
+<p>But now we needed to build it. And that was going to be hard with just Paul, Ben, and myself because none of us had done anything like this before. In some ways it was exhilarating too. I mean, we were off on the grand journey, right? This is just the next part of it.</p>
+
+<p>Friday I took the day “off”. We were running low on supplies at the house, so journeyed out to Costco and the grocery store, ran a couple errands, went to the pool store for more chemicals, and to get the water tested. Once all that was done I took a few minutes to take a quick nap then showered, shaved, and met Jeff, and MBA friend, for dinner at a little bourbon bar around the corner.</p>
+
+<p>Dinner with Jeff was good. It was good to catch up, to get his support with what we were doing, and toast more than once to a good NSF submission.</p>
+
+<p>And on that note, the week was done. I felt like we had hit a milestone in two ways; first with NSF and second with having Ben come on board. Three Devs can write way more code than two, especially when that third Dev has more recent experience writing stuff than Paul and I do.</p>
+
+  </div><a class="u-url" href="/2020/06/06/week-16/" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">danielfrye.com</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">danielfrye.com</li><li><a class="u-email" href="mailto:me@danielfrye.com">me@danielfrye.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/jekyll"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">jekyll</span></a></li><li><a href="https://www.twitter.com/jekyllrb"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">jekyllrb</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>my projects, journeys, &amp; random insights</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

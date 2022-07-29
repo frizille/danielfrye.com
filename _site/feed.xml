@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-27T22:56:24-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">danielfrye.com</title><subtitle>my projects, journeys, &amp; random insights</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/08/23/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-08-23T22:01:44-04:00</published><updated>2020-08-23T22:01:44-04:00</updated><id>http://localhost:4000/jekyll/update/2020/08/23/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/08/23/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">HELLO</title><link href="http://localhost:4000/jekyll/update/2020/08/22/first-post.html" rel="alternate" type="text/html" title="HELLO" /><published>2020-08-22T22:01:44-04:00</published><updated>2020-08-22T22:01:44-04:00</updated><id>http://localhost:4000/jekyll/update/2020/08/22/first%20post</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/08/22/first-post.html">&lt;p&gt;TEST HELLOW OWLRD&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">TEST HELLOW OWLRD</summary></entry><entry><title type="html">Protected: Week 25</title><link href="http://localhost:4000/2020/08/08/week-25/" rel="alternate" type="text/html" title="Protected: Week 25" /><published>2020-08-07T22:14:00-04:00</published><updated>2020-08-07T22:14:00-04:00</updated><id>http://localhost:4000/2020/08/08/week-25</id><content type="html" xml:base="http://localhost:4000/2020/08/08/week-25/">&lt;h4 id=&quot;monday-august-3-2020&quot;&gt;Monday, August 3, 2020&lt;/h4&gt;
+
+&lt;p&gt;I’m caught up. Finally. I was able to get one or two blog posts written each day last week and it feels like a small load off my shoulders to be back up to date.&lt;/p&gt;
+
+&lt;p&gt;The team got authentication working on Monday, shortly after lunch, about 12:45 PM or so. Ben pinged the team in Slack saying he’d worked out the last JWT issue and that it was running end to end. I asked him to make a quick video to memorialize it and he sent over the following.&lt;figure class=&quot;wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;lt;/figure&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;As much as I’d been focused on this milestone the last few weeks, it felt kind of hollow. I’m not really sure why. There was a moment of personal celebration, I got a little teary eyed, but it faded rapidly. It wasn’t the euphoric release I was expecting. I’m not really sure why that was the case. I was in an odd mood the rest of the afternoon, too. It’s like I know intellectually I should have been super excited, and I was for a moment, but it just didn’t resonate.&lt;/p&gt;
+
+&lt;p&gt;After some thought, I think the reason why I had that emotional reaction is I realize this is just one accomplishment at the beginning of our journey and that there are many, many others we need to do. I have a fear that we are not moving fast enough, and with that fear comes a secondary one that I will slip into an authoritative task master espousing “get more done, work harder, work longer” which is counterproductive to what we want the company culture to be and how I think people want to be led.&lt;/p&gt;
+
+&lt;p&gt;My view is it is better to charismaticly pull those who want to go with you on the journey than it is to push from behind. I have found that pushing from behind, i.e. taking the authoritative viewpoint, is generally synonymous with individuals that have high levels of insecurity.&lt;/p&gt;
+
+&lt;p&gt;It follows, therefore, that I am feeling some level of insecurity at the moment. Analyzing that aspect of my psyche leads to believe that is indeed the case. I’m concerned about cash flow, I’m concerned about trying to win a customer – will people even buy our product? – and a myriad amount of other day-to-day crises.&lt;/p&gt;
+
+&lt;p&gt;I think that’s why my jubilation was short lived yesterday. I wanted to feel the moment, but just couldn’t offload my concerns for more than a few moments, a brief respite to allow the sun out before the clouds crowded out its rays.&lt;/p&gt;
+
+&lt;p&gt;Anyway, Monday was relatively low-key minus the aforementioned prototype test-run success. I spent the morning getting situated for the week, updating my task list in Asana, and then doing some of the Venture Deals lectures and this week’s homework assignment on deal terms. I didn’t know much of this stuff going in, so put a good 4-5 hours into it so I could really absorb it.&lt;/p&gt;
+
+&lt;p&gt;I’d love to say I absorbed it in depth, but I feel this is one of those things you only learn by doing. The reality is that we will have a lawyer with us to help navigate these things and I really only need a working understanding of the core principles. It is very clear to me, through this limited exposure, that the SAFE notes have a tremendous advantage in terms of reduced complexity.&lt;/p&gt;
+
+&lt;p&gt;Tuesday morning I skipped my usual morning run, my left hamstring is acting funny and is oddly sore, maybe I pulled it, so spent about 30 minutes wireframing the backend website to add functionality to add/delete admin users to a company’s account. I chatted with Paul for 15 minutes about what I’d put together and made sure he was comfy with it then moved on to the daily stand up.&lt;/p&gt;
+
+&lt;p&gt;Of course we tried to demo the app for everyone on the daily standup call and of course it crashed. We’ve still got some bugs to work through, but at least it ran once so we know it’s technically feasible. Josh and Ben are going to spend some time working through the bugs today and add some of the error checking we need to make it more robust. Obviously we need to make this rock solid and that’ll come in time.&lt;/p&gt;
+
+&lt;p&gt;Looking back at the calendar, minus the time that Josh and/or Ben were on vacation, we were able to go from zero to a working prototype in about five weeks. I don’t have an estimate on number of hours, but assuming 40 hours per week that means we spent about 200 hours per person or 400 hours total. I don’t have a benchmark to determine if that’s good or bad.&lt;/p&gt;
+
+&lt;p&gt;Tuesday afternoon I got some bad news from Ben. He has been looking for a full time position in lieu of going back to school this upcoming fall semester. He got an offer from a med-tech company in CT and was asking for his letter of reference. I was happy to write him one, but wanted the opportunity to chat with him first and see if it was possible that he stay with us instead. We can’t offer money, at least not a lot of it, because the more we give him the less Paul and I can survive. We’re each burning out own money right now and have limited runway so it’s a hard sell to cut that shorter. Ben understood our position and where we were at with everything and said he hadn’t made his mind up yet on which direction he was going.&lt;/p&gt;
+
+&lt;p&gt;I shot a quick note to Mike after I got off with Ben and did a very fast call with Mike, trying to be respectful of his time, to chat through the approach. What I had conceptualized was to grant him some risk multiple of stock and some beer money, call it a few hundred dollars per month. Mike agreed that seemed reasonable given our current resources.&lt;/p&gt;
+
+&lt;p&gt;I then called Tom and Paul individually and chatted with them about how we wanted to approach retaining him. Both agreed that money was tight, but that we could afford to kick out a few extra hundred a month if we had to. Tom said he had finally sold his old house on Monday and that freed up a few hundred bucks each month that we could use for beer money salaries as both Paul and I are slowly going backrupt.&lt;/p&gt;
+
+&lt;p&gt;With Ben’s future in question, I brought up Josh. They started around the same time and Josh is also looking for full time work. I suggested whatever we offer one we offer the other since their skills were comparable. The catch is that Josh is out of school, he just graduated in May, and he’s looking for get out on his own whereas Ben is a 2nd year college student and living at home. We really need to offer Josh a salary, but with what money? We can’t afford to pay $60,000 a year for a new hire right now – that’s essentially my entire runway to keep myself alive for the next nine months.&lt;/p&gt;
+
+&lt;p&gt;It’s a tough position to be in. I would love nothing more than to compensate these guys, but we just don’t have it. It’s agonizing to me personally because I want to make people happy and reward them for really great work.&lt;/p&gt;
+
+&lt;p&gt;Sometimes it sucks to be a CEO.&lt;/p&gt;
+
+&lt;p&gt;Paul, Tom, and I met at Taco Mac Tuesday night rather than via Zoom for our weekly Founders Call. It was good to see everyone in person and to have a bit of comradery. Beer, cheesesticks, wings, and cheese dip – far from healthy – but ohh so good. I realized I hadn’t had cheese sticks since Covid started, at least as far as I could remember.&lt;/p&gt;
+
+&lt;p&gt;We talked at length about Ben and Josh and how we wanted to approach retaining them. We hashed out a plan that we felt was solid and generous, but ultimately it will be up to them if they want to stay or not. I agreed to reach out to Ben and Josh on Wednesday to present our offer which I hoped they would be receptive to.&lt;/p&gt;
+
+&lt;p&gt;We also talked at length about culture. I wrote back in Week 19 that it had been on my brain a bit and felt it was a good time to bring it up with Paul and Tom. The good news is we all agreed on it. We used different words to describe it, but the general feeling we were trying to achieve was the same. That was good to hear – it means we’re probably more suited to be cofounders than with others since our values and norms are closely aligned.&lt;/p&gt;
+
+&lt;p&gt;I had a memorable moment driving home. It rained while we were at dinner and the humidity was uncharacteristically missing when we left the restaurant. I rolled the windows down and enjoyed the cool summer night air during the hour drive home. &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://www.youtube.com/watch?v=hev2qx1y2IU&quot; target=&quot;_blank&quot;&gt;Mick Jagger’s &lt;em&gt;Just Another Night&lt;/em&gt;&lt;/a&gt; came on the radio while I was headed back and took a moment to just feel the adventure. There’s always another crisis around the corner and the moments where they aren’t top of mind are few and far between. On the drive back, cool air, good music, it just kind of let me be free for an hour. No email, no work, no pressure, just enjoying that moment of being alive. My advice to anybody that follows my footsteps – take time to reconnect with you when you can. Trust that those moments will happen sporadically and at opportune moments, don’t waste them when they occur.&lt;/p&gt;
+
+&lt;p&gt;I woke up about 2:15AM on Wednesday with my stomach in knots. I knew we were going to be eating oily unhealthy food so took a preemptive Pepto chewable before I went to dinner – oily fatty foods don’t agree with me since I had my gallbladder taken out a few years ago – and was thankful I did. I didn’t feel sick, just that “I shouldn’t have eaten that” feeling. I couldn’t sleep so after thirty minutes of flipping and flopping around like a fish out of water, I just got up and started working. Kim woke up sometime around 5:30AM and found me at my desk in my robe and slippers sipping on a cup of coffee. She was mildly alarmed since she woke up and I was gone. I agreed to come back to bed for a bit and try to sleep … once I wrapped up the email I was working on. I ventured back to bed about 5:45 AM, laid there for thirty minutes staring at the ceiling, then got back up and resumed working. I figured I’d just nap later in the day when I finally ran out of steam.&lt;/p&gt;
+
+&lt;p&gt;I ran out of steam about 6pm and manged to get about an hours worth of sleep. Before that though, I was knocking stuff out left and right! It’s amazing how much stuff you get done when you put in 9 hours of work before lunch and another 6 after. I did a couple more hours of work after I got up from my nap and had some pizza for dinner. All told, I think I got maybe 17 – 18 hours of work knocked out throughout the day.&lt;/p&gt;
+
+&lt;p&gt;In the afternoon, I talked to Ben and Josh and relayed the compensation offer we had come up with the night before. They both agreed they’d give it some thought and get back to me which is the response I expected. I sent each of them an email confirming our discussion and, in Ben’s case, the reference letter I had promised to send him for his work on Rocketansky over the summer.&lt;/p&gt;
+
+&lt;p&gt;I was scheduled to attend a webinar about Trademarks in the afternoon, but never got the meeting URL. The Eventbrite system just sucks – you’d think they would send the meeting details in the invite, or post it on the page, but nada. This is the second Eventbrite webinar I’ve registered for in the past couple of months and in every case the meeting URL was missing. It’s something to do with their platform – just a totally shit UI/UX. Makes me want to scream because it’s so damn simple – what’s one thing you need to attend a webinar? &lt;em&gt;THE FUCKING URL TO ACCESS IT&lt;/em&gt;. Sigh. I vowed to never attend another Eventbrite hosted webinar again.&lt;/p&gt;
+
+&lt;p&gt;I reached out to Tom Wednesday night to check in on him since he and I hadn’t talked at all that day which was rather odd. Call it intuition that something was up. His wife was out of town, so he was rolling solo at his house, which necessitated that I leave him a rather humorous diatribe about making a wellness check on him since we hadn’t talked in like 18 hours.&lt;/p&gt;
+
+&lt;p&gt;He called me back shortly thereafter saying he was alive – barely. Apparently that stomach grumbling I had Tuesday night wasn’t just from the diet. He was massively sick all day – likely suspect was food poisoning – but he was alive.&lt;/p&gt;
+
+&lt;p&gt;I was all over the board on Thursday. The day started with doing some work prior to the daily standup meeting with development, then the daily standup call, then a quick run over to my lawyers house, then back-to-back meetings in the afternoon. I never really got settled to get anything done other than the couple hours I carved out in the morning prior to the standup call. That time was mostly spent working on the YC application, giving some thought to website design, and rehashing prior assumptions about how users would use the product.&lt;/p&gt;
+
+&lt;p&gt;In the afternoon, I had a Startup School call with three other CEOs. One was making an advertisement platform for cars (like those little screens in the back of taxis with advertisements), one that was making a CRM training platform, and one that was making robotic prosthesis for people who were disabled. Of the three, I felt the prosthesis company was off to the best start. The CEO sounded strong, knowledgeable, and they were making good progress. He related the story of their prototype being fit on a disabled veteran who had lost his arm from the elbow down – I got a little teary eyed as he was telling it because I can picture that day as he told it. I laughed at the end – the first thing the veteran did with his robotic limb was give the nurse the finger after she told him he needed to rest (lol).&lt;/p&gt;
+
+&lt;p&gt;The feedback on Rocketansky was positive. They all felt it was a great idea, they liked the direction, and were excited to see/hear more about us as we get the prototype done and get into the market.&lt;/p&gt;
+
+&lt;p&gt;After the Startup School CEO call, I spent some time catching up with Carl, a former co-worker at Cedar. He had left Cedar back in April and is working on his supply chain startup. We compared notes, chatted through some things he’s currently working on with his company, and I offered what insight I could.&lt;/p&gt;
+
+&lt;p&gt;Friday was a busy day. I spent the morning working on the YC application, had a meeting in the afternoon with a rep from Hubspot, met with Paul one-on-one to talk about development, and had an advisor meeting with Mike in the afternoon. Ohh, and the prototype broke spectacularly because we had too many hands in the pie.&lt;/p&gt;
+
+&lt;p&gt;The prototype issue irked me. Essentially what happened was one guy was refactoring the database and by renaming some of the existing tables it broke the existing code. It’s a newbie mistake – plan your changes, communicate the changes, and then make the changes. We’re moving very fast on purpose and this is the penalty you get for doing so. We’re going to break things. It only took an hour or so to fix once we realized what was going on, but all the same, it means we’re starting to stress our existing processes. We need to get better on planning changes and communicating them. A quick 5 minute meeting to review them would have prevented the issue and saved three people, myself included, an hour’s worth of time. I made a note to talk to Paul about that the next time we caught up on the phone.&lt;/p&gt;
+
+&lt;p&gt;At some point on Friday, I don’t remember when, Jon and I agreed to meet Monday so we could review the website frontend and hash out a final design. Rather than start from scratch, I found a bunch of templates for $40 and just bought the whole package. I think it was something like 30 different website templates and figured we could cut blocks of code from each to build the website I had envisioned. They looked pretty feature rich so I felt we were off to a good start on that front and had saved a ton of time by doing so since we weren’t re-inventing the wheel.&lt;/p&gt;
+
+&lt;p&gt;The Hubspot call was somewhat anticlimactic. I know we’ll need a CRM system of sorts when we get to selling, but we’re not there yet, so the call was mostly themed around “yeah, we’re in free mode until we’re not, I’ll tell you when that it is.” But the rep, John, was very helpful and sent over a number of articles that I can use to help leverage Hubspot better as a small startup company. The interaction was solid – he knew his stuff – and it made me feel like “yes, this is a company I want to do business with.” Having read The Sales Acceleration Formula by Mark Roberge I felt somewhat bad for John. I know Hubspot sales track metrics religiously about conversions and such and I’ll be an outlier; we’re not buying until we’re ready.&lt;/p&gt;
+
+&lt;p&gt;The call Friday afternoon with Mike was a good call. Someone in his family / social circle came down with Covid, so they were trying to get people in the family tested and all that. He didn’t think there was anything to worry about, but all the same, they were taking precautions.&lt;/p&gt;
+
+&lt;p&gt;He and I chatted about the potential turnover of our developers and at the end of the day we can only offer what resources we have to offer with. If we lose Ben, then it is what it is. We made a good offer, in my opinion, for a college student with limited experience. Not to say that we don’t value him, we certainly do, and he’s incredibly smart. He grasps things very, very quickly, perhaps faster than anyone on the team – myself included.&lt;/p&gt;
+
+&lt;p&gt;But like any person who has ever worked for me, if they have a better opportunity, than I am happy for them. And if he should want to remain engaged and come back, then we will welcome him with a warm bowl of chicken soup. That’s our culture.&lt;/p&gt;
+
+&lt;p&gt;Mike and I also talked about sales and the prototype. He feels we need to continue to talk to folks about what we’re doing, but I’m finding it very hard to do so when I’m getting interest and then have to essentially put people on hold for weeks. I want to get interest, say here’s the prototype let me sign you up, and then touch base with them weekly to see how it’s going. I want to carry momentum.&lt;/p&gt;
+
+&lt;p&gt;Not having a product right now is making momentum impossible. Not having a demo of the product is also making it difficult to keep interest and momentum. I can describe it all day long, and get interest, but I need more than that. Mike has a long history of doing marketing and product market fit, so I’ll defer to his wisdom. He and I agreed to put some time together next week on Tuesday, the 11th, to really dig into the customer journey and product market fit. I agreed to get some work done on it before Sunday night and send over to him for review. I’m kind of shooting in the dark with what he wants to see, but at least I can shoot in a direction and learn from it.&lt;/p&gt;
+
+&lt;p&gt;After the call with Mike, I spent a bit of time on the phone with Kevin at Nerv+ catching up. He reached out via email when I was talking to Mike, since Kevin and I hadn’t caught up in a few weeks, so we played phone tag and ended up having an informal call for a half hour or so. The topic of Venture Atlanta came up, he is applying for a presenter spot, and I mentioned we were doing the same. He knows some folks organizing it and said he’d be happy to make an intro to them so I could build some relationships there that may be helpful.&lt;/p&gt;
+
+&lt;p&gt;We also briefly chatted about incubators and other sources of funding. Not much to report there other than what I’ve already related here about it. He asked if I’d heard anything from NSF, I said I hadn’t, and he said they were still working on their submission. We’re about two weeks away from September 1st… I’m hoping we hear something soon – obviously hope it’s good news. On good days I feel confident that we’ll get in. On most days I’m skeptical. Optimism / pessimism right there. Now with that said, no matter what happens, I’m confident we’ll keep fighting the good fight one way or another – I’m not going to give up if we don’t get it.&lt;/p&gt;
+
+&lt;p&gt;Managing your emotions is one of the most challenging things about being a CEO and starting a startup.&lt;/p&gt;
+
+&lt;p&gt;Saturday was a bit of work, call it 4 hours, spent reading on various startup topics I wanted to absorb more and looking at the templates I’d pulled down on Friday from BootStrapMade.com. I earmarked a few different templates to talk with Jon about and discarded the rest. And like always, my brain just did not shut off thinking about the company. It doesn’t do that much anymore. Even when I’m doing something else, I feel the company just underneath my conscious, percolating.&lt;/p&gt;
+
+&lt;p&gt;I’m not sure where this falls in terms of a weekly update. Does Sunday count as last week, next week, or is it some indeterminable quantum of time in between both weeks like a prologue or the narrator’s monologue between a play’s Acts? Regardless of its position, I’ve had a circuitous round of thought Sunday morning that I felt was important to memorialize because I felt as though I’ll be reflecting back to it.&lt;/p&gt;
+
+&lt;p&gt;I woke up Sunday morning and was feeling like I didn’t want to work. I wanted to turn on the old Nintendo, good ol’ 8-bit NES, and absorb myself in some kind of lengthy adventure. Something like Zelda or Maniac Mansion … something that would bring out a sense of discovery, progress, and reward. But for whatever reason, I didn’t turn on the NES. Instead I opened the computer, checked email, then started reading about Accelerators.&lt;/p&gt;
+
+&lt;p&gt;We have been talking, Tom, Paul, and I, about the different Startup Accelerators we might try to get into and the benefits of doing so. The benefits are really two things: a) some amount of investment, generally $120k – $150k and b) advisement, mentorship, and networking connections to possible further investment, either a Seed or Series-A round of financing.&lt;/p&gt;
+
+&lt;p&gt;What I found Sunday morning is that there are really three programs we would apply to – Y Combinator, 500 Startups, and Techstars. The rest, and there are many, are the B-squad and while their $100k or so in funding may be good, the advisement, mentorship, and networking connections are not as good as the top tier. With that in mind, we want to focus on those top three first.&lt;/p&gt;
+
+&lt;p&gt;I spent another hour or so figuring out how to go about applying for those three – YC, 500 Startups, and Techstars. Each has their own process and I pulled down PDFs of each application so I can give it more focused thought over the next week. One recurring theme, however, is Product. And I capitalized that because it deserves emphasis. You get customers and funding by having a great Product. If your product is shit, then your users won’t come, and funding won’t follow them. Or vice versa. Either way – Product is king.&lt;/p&gt;
+
+&lt;p&gt;Tom jumped on the phone with me at 10AM and we spent a little over two and a half hours working on documenting customer journeys and the reasons why customers will buy our product. Once we had something we felt was solid, I sent a copy over to Mike so he could pre-read before our meeting on Tuesday.&lt;/p&gt;
+
+&lt;p&gt;Tom and I also worked through the Week 6 homework for Venture Deals which was a negotiation prep sheet for a mock VC funding negotiation. There wasn’t much different in the material than what I remember from our Negotiations class in grad school, basically you inventory what resources you have, what they have, what they want, what you want, and where your walk away point is and best alternative. The goal is not to create a zero sum game, but to find a win-win solution that balances your needs with theirs. Everyone has to win or it doesn’t make sense to do it. Many people don’t grasp that concept.&lt;/p&gt;
+
+&lt;p&gt;I spent Sunday afternoon reading by the pool and cooking a prime rib on the smoker. The prime rib turned out great and I was able to get about 3-4 hours of reading done in the afternoon. I spent most of it learning about how to grow your product, “growth hacking” as it were, but in the end resigned myself that it all comes down to Product. We are very far away from “growth hacking” as our product isn’t done.&lt;/p&gt;
+
+&lt;p&gt;I also spent some time reading about various “jobs” the CEO does. There was a great article in the &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://www.ycombinator.com/library/3k-what-s-the-second-job-of-a-startup-ceo&quot; target=&quot;_blank&quot;&gt;Startup School library by Ali Rowghani&lt;/a&gt; that drove home the previous point about needing a solid product before you get to “growth hacking”. In summary, the moral of the story is the CEO has two jobs – first it’s to develop a product, second is to develop a company.&lt;/p&gt;
+
+&lt;p&gt;I played around with that in my mind a bit and compared it to the journey we’re on now. We do not yet have a product, we’re still a bit away from it, and I question if bringing on the other developers was good or bad. Did we try to create a company first, then a product second? Or was it smart to leverage “free” resources while they are available to move faster? Did we move faster than if Paul and I had just focused our entire summer on it?&lt;/p&gt;
+
+&lt;p&gt;It’s really hard to say what was right and what was wrong or even if it mattered. I think from one perspective it was the right choice to bring on extra developers. We’ve been able to accomplish a pretty good amount in terms of breadth, even though we haven’t been able to get a prototype out yet. To be clear, we’re not past due, and maybe I’m looking at this as a sprint versus a marathon. Maybe I need to be more patient and let the process work to the end.&lt;/p&gt;
+
+&lt;p&gt;Being patient is tough. There is a part of me that is chomping at the bit to get out and sell this thing and also a part of me that dreads becoming a salesman knowing that I have to go out and find our customers. I think what moves the needle for me the most is that getting the prototype done means we’ve hit a milestone and we can’t do much else without it long term. In the short term, there’s things we can do to get ready for the next phase, like the customer journeys for example, but we don’t really know that the product works, and by works I mean solves the customer problems.&lt;/p&gt;
+
+&lt;p&gt;I was reminded about the Wilderness article from last week, or was it the week before? I’m not sure. Time is weird these days. We are in the wilderness now, I know that much. We’ve had a stepping off point, but the journey is far, far from over.&lt;/p&gt;</content><author><name>Daniel</name></author><category term="The Entrepreneur's Journey" /><summary type="html">Monday, August 3, 2020</summary></entry><entry><title type="html">“Optimus” Prime Rib</title><link href="http://localhost:4000/2020/08/08/optimus-prime-rib/" rel="alternate" type="text/html" title="“Optimus” Prime Rib" /><published>2020-08-07T20:38:44-04:00</published><updated>2020-08-07T20:38:44-04:00</updated><id>http://localhost:4000/2020/08/08/optimus-prime-rib</id><content type="html" xml:base="http://localhost:4000/2020/08/08/optimus-prime-rib/">&lt;p&gt;I hadn’t had prime rib in a long time. The last time had to be at my mom’s house, but have no idea how long it had been. Probably years. I made a comment to Kim that we should do prime rib on the smoker, since it was a low-and-slow kind of a cook, so there had to be some good recipes out there.&lt;/p&gt;
+
+&lt;p&gt;I spent a bit of time searching and there’s all kinds of stuff. I settled on one recipe, &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;http://www.nakedwhiz.com/madmaxprimerib.htm&quot; target=&quot;_blank&quot;&gt;Mad Max’s Prime Rib&lt;/a&gt;, for reasons that are obvious to anyone who knows where &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://en.wikipedia.org/wiki/Max_Rockatansky&quot; target=&quot;_blank&quot;&gt;Rocketansky&lt;/a&gt;, my company’s name, came from and the fact that I had actually stumbled on a bag of Jack Daniels Whiskey barrel oak wood chips earlier that week. It’s like fate was telling me something.&lt;/p&gt;
+
+&lt;p&gt;I edited the Mad Max recipe, since I can’t have garlic, and added the mustard rub to keep all the seasonings in place. I’ve therefore &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://en.wikipedia.org/wiki/Optimus_Prime&quot; target=&quot;_blank&quot;&gt;named my Prime creation accordingly&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Ingredients&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mustard. Just plain ol’ yellow mustard.&lt;/li&gt;
+  &lt;li&gt;Enough coarse kosher salt to cover the roast. Just sprinkle liberally.&lt;/li&gt;
+  &lt;li&gt;Enough coarse black pepper to cover the roast. Just sprinkle liberally.&lt;/li&gt;
+  &lt;li&gt;A couple sprigs of rosemary. Chop them roughly and sprinkle liberally.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Directions&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Coat the roast with mustard. I hate the smell of mustard and it gets everywhere. If you can delegate this to your wife then bonus! We did not put the rosemary under the fat cap as Mad Max did.&lt;/p&gt;
+
+&lt;p&gt;Sprinkle salt, pepper, and the chopped rosemary on all sides of the roast. See picture below for the chips and the roast right before it went in.&lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img loading=&quot;lazy&quot; width=&quot;1200&quot; height=&quot;900&quot; src=&quot;http://danielfrye.com/wp-content/uploads/2020/08/2020-03-08-16.00.53-1200x900.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-1818&quot; srcset=&quot;http://danielfrye.com/wp-content/uploads/2020/08/2020-03-08-16.00.53-1200x900.jpg 1200w, http://danielfrye.com/wp-content/uploads/2020/08/2020-03-08-16.00.53-744x558.jpg 744w, http://danielfrye.com/wp-content/uploads/2020/08/2020-03-08-16.00.53-420x315.jpg 420w, http://danielfrye.com/wp-content/uploads/2020/08/2020-03-08-16.00.53-768x576.jpg 768w, http://danielfrye.com/wp-content/uploads/2020/08/2020-03-08-16.00.53-1536x1152.jpg 1536w, http://danielfrye.com/wp-content/uploads/2020/08/2020-03-08-16.00.53-2048x1536.jpg 2048w, http://danielfrye.com/wp-content/uploads/2020/08/2020-03-08-16.00.53-1070x803.jpg 1070w&quot; sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot; /&gt; &amp;lt;figcaption&amp;gt;&lt;em&gt;Roast covered in salt, pepper, chopped rosemary, and mustard.&lt;/em&gt;&amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Fire the grill up, indirect heat with the deflectors in, and get it set for about 275-300 degrees F. Use the JD oak chips liberally mixed in with the charcoal.&lt;/p&gt;
+
+&lt;p&gt;When the temp on the roast hits your desired doneness, then pull it off the grill, and remove the heat deflectors. Crank the grill to about ~500 degrees F and let the roast char. You can see my temperature chart at the end of this post and the vertical orange line on the ride side, at the temp drop, is when I pulled it from the direct heat and let it rest. Hindsight 20/20, I would have pulled it off the indirect heat sooner and let it char longer over the direct heat.&lt;/p&gt;
+
+&lt;p&gt;Cook the roast until about 110°F/43°C for rare, 120°F/49°C for medium rare and 130°F/55°C degrees for medium. It will climb a few degrees when you pull it off the grill so make sure to account for that. A 5.5 lb roast took a little over 3 hours before it was ready to char and we ended up with a medium-rare pink-throughout roast (which is where I was aiming).&lt;/p&gt;
+
+&lt;p&gt;Slice and carve as desired. We paired it with some baked potatoes, Woodford, and an au jus Kim made up.&lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img loading=&quot;lazy&quot; width=&quot;1200&quot; height=&quot;900&quot; src=&quot;http://danielfrye.com/wp-content/uploads/2020/08/2020-03-08-19.54.11-1200x900.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-1814&quot; srcset=&quot;http://danielfrye.com/wp-content/uploads/2020/08/2020-03-08-19.54.11-1200x900.jpg 1200w, http://danielfrye.com/wp-content/uploads/2020/08/2020-03-08-19.54.11-744x558.jpg 744w, http://danielfrye.com/wp-content/uploads/2020/08/2020-03-08-19.54.11-420x315.jpg 420w, http://danielfrye.com/wp-content/uploads/2020/08/2020-03-08-19.54.11-768x576.jpg 768w, http://danielfrye.com/wp-content/uploads/2020/08/2020-03-08-19.54.11-1536x1152.jpg 1536w, http://danielfrye.com/wp-content/uploads/2020/08/2020-03-08-19.54.11-2048x1536.jpg 2048w, http://danielfrye.com/wp-content/uploads/2020/08/2020-03-08-19.54.11-1070x803.jpg 1070w&quot; sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot; /&gt; &amp;lt;figcaption&amp;gt;&lt;em&gt;Freaking perfection. Nailed it on the first try.&lt;/em&gt;&amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt; &lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;img loading=&quot;lazy&quot; width=&quot;1125&quot; height=&quot;2436&quot; src=&quot;http://danielfrye.com/wp-content/uploads/2020/08/2020-08-07-09.47.44.png&quot; alt=&quot;&quot; class=&quot;wp-image-1817&quot; srcset=&quot;http://danielfrye.com/wp-content/uploads/2020/08/2020-08-07-09.47.44.png 1125w, http://danielfrye.com/wp-content/uploads/2020/08/2020-08-07-09.47.44-744x1611.png 744w, http://danielfrye.com/wp-content/uploads/2020/08/2020-08-07-09.47.44-420x909.png 420w, http://danielfrye.com/wp-content/uploads/2020/08/2020-08-07-09.47.44-768x1663.png 768w, http://danielfrye.com/wp-content/uploads/2020/08/2020-08-07-09.47.44-709x1536.png 709w, http://danielfrye.com/wp-content/uploads/2020/08/2020-08-07-09.47.44-946x2048.png 946w, http://danielfrye.com/wp-content/uploads/2020/08/2020-08-07-09.47.44-1070x2317.png 1070w&quot; sizes=&quot;(max-width: 1125px) 100vw, 1125px&quot; /&gt;&lt;/figure&gt;&lt;/p&gt;</content><author><name>Daniel</name></author><category term="Mohawk Cooking" /><summary type="html">I hadn’t had prime rib in a long time. The last time had to be at my mom’s house, but have no idea how long it had been. Probably years. I made a comment to Kim that we should do prime rib on the smoker, since it was a low-and-slow kind of a cook, so there had to be some good recipes out there.</summary></entry><entry><title type="html">Ribs (St. Louis or Baby Back)</title><link href="http://localhost:4000/2020/08/08/ribs-st-louis-or-baby-back/" rel="alternate" type="text/html" title="Ribs (St. Louis or Baby Back)" /><published>2020-08-07T20:03:48-04:00</published><updated>2020-08-07T20:03:48-04:00</updated><id>http://localhost:4000/2020/08/08/ribs-st-louis-or-baby-back</id><content type="html" xml:base="http://localhost:4000/2020/08/08/ribs-st-louis-or-baby-back/">&lt;p&gt;I got this recipe from Robert, a friend that I used to work with. This recipe completely changed my notion of what good barbecue and good ribs are. I’ve never talked to anyone that did them like this. I hypothesize that every person has their own rib recipe, and that everyone is convinced their recipe is “the way” and that all others are imitations of their perfection.&lt;/p&gt;
+
+&lt;p&gt;I encourage anyone to give these a chance the next time they cook. There’s tremendous flavor in the rub and a great rack of ribs will really shine with some added pecan or cherry wood flavors.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Rub Ingredients&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1 Tablespoon coarse kosher salt&lt;/li&gt;
+  &lt;li&gt;2 Tablespoons paprika&lt;/li&gt;
+  &lt;li&gt;1 Tablespoon dried thyme&lt;/li&gt;
+  &lt;li&gt;1 Tablespoon chili powder&lt;/li&gt;
+  &lt;li&gt;6 Tablespoons of dark or light brown sugar&lt;/li&gt;
+  &lt;li&gt;1 1/2 teaspoons ground black pepper&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Directions&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mix all the rub ingredients in a bowl really well. If you have a mortar and pestle that works great too so you can really break up the sugar and pepper into fine grains.&lt;/p&gt;
+
+&lt;p&gt;Remove the membrane from the ribs and any silver skin. Start the membrane in a corner of the rack to get a little edge up then grip it with a paper towel. The membrane will sometimes require a little help from the knife, but once you get the technique down they oftentimes come right off using the paper towel trick.&lt;/p&gt;
+
+&lt;p&gt;Add the rub to the ribs.&lt;/p&gt;
+
+&lt;p&gt;Get the grill going while the rub sits on the ribs at room temp. Bring it to 250 degrees F, indirect with the heat deflectors in place. Depending on the size of your grill, get your rib rack ready on the grates. If you’re using a gas grill instead of an egg or smoker, that’s usually one burner on low.&lt;/p&gt;
+
+&lt;p&gt;Put the ribs on and cook at 250 degrees F for 90 minutes.&lt;/p&gt;
+
+&lt;p&gt;Pull the ribs off the grill and place them on a double wrapped sheet of aluminum foil. Cover the tops and bottoms of the ribs with the Stubbs sauce. The original, spicy, Sweet Heat, and Spicy Sweet all work great. My personal preference is the Spicy Sweet. Wrap the ribs tightly in the foil once the sauce is slathered all over them. If you’re using the thinner version of foil, I would recommend double wrapping them because a puncture will leak sauce EVERYWHERE – on the grill, on you, on the floor, and on the counter… I know from experience.&lt;/p&gt;
+
+&lt;p&gt;Place the newly wrapped ribs back on the grill at 250 degrees F for one hour. If you’re using a smoker, you’re no longer getting any additional flavor from the smoke on the ribs since they are wrapped in the foil. I oftentimes fire up my gas grill for this second step so I can cook the side dishes or another batch of ribs on the Egg while the gas grill continues to cook the first batch.&lt;/p&gt;
+
+&lt;p&gt;After an hour, remove the ribs from the grill, unwrap them, and place them bone side down over direct medium heat at 350 – 450 degrees F. Cook them about 5 minutes per side, enough to lightly char the ribs and give them a nice crust.&lt;/p&gt;
+
+&lt;p&gt;Pull the ribs to your desired char and enjoy! They should look something like the following:&lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img loading=&quot;lazy&quot; width=&quot;1200&quot; height=&quot;1600&quot; src=&quot;http://danielfrye.com/wp-content/uploads/2020/08/2020-06-27-16.45.42-1-1200x1600.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-1807&quot; srcset=&quot;http://danielfrye.com/wp-content/uploads/2020/08/2020-06-27-16.45.42-1-1200x1600.jpg 1200w, http://danielfrye.com/wp-content/uploads/2020/08/2020-06-27-16.45.42-1-744x992.jpg 744w, http://danielfrye.com/wp-content/uploads/2020/08/2020-06-27-16.45.42-1-420x560.jpg 420w, http://danielfrye.com/wp-content/uploads/2020/08/2020-06-27-16.45.42-1-768x1024.jpg 768w, http://danielfrye.com/wp-content/uploads/2020/08/2020-06-27-16.45.42-1-1152x1536.jpg 1152w, http://danielfrye.com/wp-content/uploads/2020/08/2020-06-27-16.45.42-1-1536x2048.jpg 1536w, http://danielfrye.com/wp-content/uploads/2020/08/2020-06-27-16.45.42-1-1070x1427.jpg 1070w, http://danielfrye.com/wp-content/uploads/2020/08/2020-06-27-16.45.42-1-scaled.jpg 1920w&quot; sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot; /&gt; &amp;lt;figcaption&amp;gt;&lt;em&gt;Ribs being cut and prepared for the feast&lt;/em&gt;&amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt;&lt;/p&gt;</content><author><name>Daniel</name></author><category term="Mohawk Cooking" /><summary type="html">I got this recipe from Robert, a friend that I used to work with. This recipe completely changed my notion of what good barbecue and good ribs are. I’ve never talked to anyone that did them like this. I hypothesize that every person has their own rib recipe, and that everyone is convinced their recipe is “the way” and that all others are imitations of their perfection.</summary></entry><entry><title type="html">Protected: Week 24</title><link href="http://localhost:4000/2020/07/31/week-24/" rel="alternate" type="text/html" title="Protected: Week 24" /><published>2020-07-31T17:08:34-04:00</published><updated>2020-07-31T17:08:34-04:00</updated><id>http://localhost:4000/2020/07/31/week-24</id><content type="html" xml:base="http://localhost:4000/2020/07/31/week-24/">&lt;h4 id=&quot;monday-july-27-2020&quot;&gt;Monday, July 27, 2020&lt;/h4&gt;
+
+&lt;p&gt;Things are going fast. I feel like we’re a snowball, rolling down the mountain, getting bigger with every rotation. Everything we do seems to gather momentum. Well, let me rephrase. &lt;em&gt;Much of what we do&lt;/em&gt; seems to gather momentum. That’s both reassuring, but also kind of scary. It’s like I’m carrying the worry that the music will stop, or we’ll do something very dumb. I’m trying very hard not to do anything dumb.&lt;/p&gt;
+
+&lt;p&gt;Monday morning was our first daily development stand up meeting with eight people. Eight. It felt crowded. After months of just a few of us, eight feels like a hell of a lot.&lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img loading=&quot;lazy&quot; width=&quot;1200&quot; height=&quot;675&quot; src=&quot;http://danielfrye.com/wp-content/uploads/2020/07/2020-07-27-10.02.21-1-1200x675.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-1732&quot; srcset=&quot;http://danielfrye.com/wp-content/uploads/2020/07/2020-07-27-10.02.21-1-1200x675.jpg 1200w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-27-10.02.21-1-744x419.jpg 744w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-27-10.02.21-1-420x236.jpg 420w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-27-10.02.21-1-768x432.jpg 768w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-27-10.02.21-1-1536x864.jpg 1536w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-27-10.02.21-1-2048x1152.jpg 2048w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-27-10.02.21-1-1070x602.jpg 1070w&quot; sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot; /&gt; &amp;lt;/figure&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;I chatted with Paul after the call and we both commented on how amazing it is that we have seven other people that have joined us on this journey with no salary and no promise of equity in the company. All they want is the opportunity to be part of something pretty cool and to learn. I remember Mark Suster’s article, &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://bothsidesofthetable.com/is-it-time-for-you-to-earn-or-to-learn-34270acd2f4&quot; target=&quot;_blank&quot;&gt;Is it Time for You to Earn or to Learn&lt;/a&gt;, and guess there are folks out there that understand what Mark was getting at. Here’s what our growth vs cash burn rate looks like.&lt;/p&gt;
+
+&lt;div class=&quot;wp-block-image&quot;&gt;
+  &lt;figure class=&quot;aligncenter size-large&quot;&gt;&lt;img loading=&quot;lazy&quot; width=&quot;481&quot; height=&quot;289&quot; src=&quot;http://danielfrye.com/wp-content/uploads/2020/07/image-1.png&quot; alt=&quot;&quot; class=&quot;wp-image-1730&quot; srcset=&quot;http://danielfrye.com/wp-content/uploads/2020/07/image-1.png 481w, http://danielfrye.com/wp-content/uploads/2020/07/image-1-420x252.png 420w&quot; sizes=&quot;(max-width: 481px) 100vw, 481px&quot; /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;With that said, we’re likely to lose Ben and Justin in the next few weeks when they head back to school, Josh could get a job at any time, and the rest of the guys will continue to contribute as they’re able around their own work, school, and family commitments. So we don’t have full time developers, but I’m wondering if we have something more important – people with passion.&lt;/p&gt;
+
+&lt;p&gt;One of the things that Paul and I wanted most for the folks that join us, as interns, employees, or in any other capacity, is the opportunity to grow. We’re kind of a bunch of scrappy underdogs.&lt;/p&gt;
+
+&lt;p&gt;I like it.&lt;/p&gt;
+
+&lt;p&gt;So Monday… it was pretty uneventful. I spent the morning getting the new guys, Dean, Isaiah, and Justin, setup with accounts and access. A little about the guys:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dean is a registered nurse that wanted to learn more about development because he wants to start a healthcare company that creates devices purpose built for elderly patients. He met Jon at the GA Tech coding bootcamp and Jon recommended him to us. I was struck by Dean’s passion for the elderly care aspect and thought to myself, why not? I can help this guy learn more about business, development, and maybe one day he can make a company that will help my parents. During the interview I made a commitment to help him on his learning journey and he made a commitment to follow that passion to build the company he wants.&lt;/li&gt;
+  &lt;li&gt;Isaiah was a heating/AC tech that dabbled in computers. Then he decided why dabble? Why not try it as a career. He decided to take the GA Tech bootcamp, met Jon, and now he’s taking the opportunity with us to get his first taste of programming as a career.&lt;/li&gt;
+  &lt;li&gt;Justin was recommended to us from Mark, one of our original capstone compatriots. Justin had done an internship with Mark’s company over the summer, and after that wrapped up, Justin was killing time until school started. Mark made the introduction to us, we brought Justin onboard this week. Justin programs computer games in his spare time, obviously a kindred spirit to me, and he and I hit it off pretty quickly.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After the guys were settled and we had them paired up with Ben, Josh, and Jon, I spent a couple hours working some exercises for the Venture Deals class. Learning doesn’t stop, even as CEO. The exercises in question were on liquidation preferences and participating / non-participating share calculations. The basics are this – as a VC, always get high multiples for liquidation and don’t cap your participating shares. As a founder, do the opposite.&lt;/p&gt;
+
+&lt;p&gt;I also talked to Tom and Paul half a dozen times each on the phone, par for the course, and then spent some time with Jon and Isaiah going over the latest iteration of the website. Current disposition below.&lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img loading=&quot;lazy&quot; width=&quot;1200&quot; height=&quot;675&quot; src=&quot;http://danielfrye.com/wp-content/uploads/2020/07/2020-07-27-15.35.26-1-1200x675.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-1731&quot; srcset=&quot;http://danielfrye.com/wp-content/uploads/2020/07/2020-07-27-15.35.26-1-1200x675.jpg 1200w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-27-15.35.26-1-744x419.jpg 744w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-27-15.35.26-1-420x236.jpg 420w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-27-15.35.26-1-768x432.jpg 768w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-27-15.35.26-1-1536x864.jpg 1536w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-27-15.35.26-1-2048x1152.jpg 2048w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-27-15.35.26-1-1070x602.jpg 1070w&quot; sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot; /&gt; &amp;lt;/figure&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;It’s come a far way from last week’s wireframe.&lt;/p&gt;
+
+&lt;p&gt;I was in a writing mood Monday night so spent some time catching up on writing the blog posts here. I skipped weeks 14-19 prior, just too busy, and wanted to get my thoughts down before I forget the details. I was able to knock out weeks 14 and 15 Monday night while watching Spaceballs and Tron.&lt;/p&gt;
+
+&lt;p&gt;On Tuesday we had the daily standup, we dished out tasks, and then I started cranking on my to do list. I had a few big items that I wanted to knock out:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Get captable.io setup so we could issue Ben and Josh shares in the company officially. Paul, Tom, and I all felt that they each deserved some equity given the work they were doing.&lt;/li&gt;
+  &lt;li&gt;There were two articles I read late Monday night, one on Burn Rate and another on Being in the Wilderness, which I sent out to Tom and Paul. both articles were very good. We are entering the Wilderness period – that time when development is in full swing and before you have any customers. It’s a somewhat lonely place to be because you really don’t know if what you’re building will actually work. It’s somewhat a leap of faith. With that said, however, we are still talking to customers about what we’re building but it’s hard to articulate it without something to demo to them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I spent some time working on writing up the stock plan in the afternoon and sent the SaaS click-through T&amp;amp;Cs document to Arn for review. I also did some more writing on weeks 16-18 on here so I can hopefully get caught up this week. It’s a small goal in the grand scheme of things, but feel like I’ve got a little leeway this week to get it done since the majority of the work is falling on the development side of the house right now.&lt;/p&gt;
+
+&lt;p&gt;Tuesday night I spent a few hours doing more writing – it never occurred to me exactly how much work these are to write when you’re trying to do them in retrospective two months after the fact.&lt;/p&gt;
+
+&lt;p&gt;Paul came over on Wednesday and we spent the morning doing the daily standup, working through customer onboarding design and a few architectural tasks, and then took a break to go get mexican for lunch. It seems we do mexican every week for whatever reason. After lunch and after Paul headed home, I made a trip to Costco and ran errands to beat the rush. It was uneventful and relatively deserted which was great.&lt;/p&gt;
+
+&lt;p&gt;Wednesday night I took a break from work and made two racks of lamb on the Red Egg (Kamado Joe). &lt;a href=&quot;http://danielfrye.com/2020/07/30/rack-of-lamb/&quot;&gt;The recipe is here on the site&lt;/a&gt; and it came out quite good!&lt;/p&gt;
+
+&lt;p&gt;Tom, Paul, and I had our weekly Cofounders Call Wednesday night instead of Tuesday this week. The agenda was fairly light – mostly just talking through the stock plan, the documents I had in progress, and where we were at financially ($200 in the bank), and where development was at. I think the call lasted about an hour – relatively quick call. No word yet on NSF.&lt;/p&gt;
+
+&lt;p&gt;The only real output from the call was the agreement that we want to apply to YCombinator and the Venture Atlanta Conference. Getting into both will be a challenge, but what’s the worst that can happen… we hear a no? After the call I did some reading about how to design a sales process (&lt;a href=&quot;https://www.amazon.com/Sales-Acceleration-Formula-Technology-Inbound/dp/1119047072&quot;&gt;The Sales Acceleration Formula&lt;/a&gt;) and then called it a night.&lt;/p&gt;
+
+&lt;p&gt;Thursday morning was pretty light, just the daily stand up call, but the afternoon made up for it. There was a webinar put on by AWS and YC (YCombinator) talking about how to make a good application. Knowing that we were headed in that direction, I thought it a good idea to attend in the same way that getting on the NSF SBIR webinars was a good idea. Those proved useful so figured this would as well.&lt;/p&gt;
+
+&lt;p&gt;I’m happy to report I was correct – it was very useful. The biggest thing I got from the webinar is this – YC wants you to be direct and real. No marketing bullshit, no MBA nonsense, just be real. Talk about the opportunity, how you’re approaching it, and what problem you’re really trying to solve. I think we check all the boxes in terms of our approach, but time will tell when we apply. Applications are due mid-September so I marked my calendar to be done by September 1st.&lt;/p&gt;
+
+&lt;p&gt;After the YC webinar, I had a Startup School group session with three other random CEOs. Startup School is like YC-lite, if such a thing existed. One CEO was from Nigeria and was starting a logistics company of sorts. He had a thick accent, and it was hard to understand him a bit through the Webex, but what I gathered from him is that he was the “Uber of errands”. Let’s say you are a single mom and need to watch the kids but also go to the store – just open the app and put in your request and someone (the equivalent to an Uber driver) will go do it for you. I question the cost mechanics, but maybe there’s different cost-price dynamics in a developing country versus the US.&lt;/p&gt;
+
+&lt;p&gt;The second CEO was from New York and was starting a security company focused on API security. This was immensely interesting to me since this literally had just come up last week with DJ and James. The CEO didn’t go into too many details, but said that they were working on product and looking for their initial customers. He mentioned doctor’s offices and lawyers… I’m not sure that’s the right market for them. I don’t know of any doctor’s offices and lawyers that need API security. He also wasn’t sure what his other competitors were, he mentioned Cisco and FireEye, but … no. At least not that I know of. I think they have some more work to do on market analysis in my opinion.&lt;/p&gt;
+
+&lt;p&gt;The third CEO was no show, no idea what they did.&lt;/p&gt;
+
+&lt;p&gt;The feedback on Rocketanksy was positive. They understood what we were doing, why we were doing it, and seemed to like what we were putting together. I was a bit cagey on details and over simplified many of the points… I still don’t trust most people to know the detailed mechanics of our business model, even though it is as-yet unproven.&lt;/p&gt;
+
+&lt;p&gt;Friday morning we did the usual 10AM meeting and had a demo day of sorts where each person showed off what they had been working on. The most profound part of the meeting was when Josh showed off the iPhone app doing an authentication! It works… mostly. Before today it was dying at step 4, even though steps 5-8 we’re working fine. So now that step 4 is fixed, it goes all the way to step 9. There’s 10 steps so we’re close. So very, very close! It’ll be great to see an authentication work for the first time.&lt;/p&gt;
+
+&lt;p&gt;Bearing in mind that we have no idea yet if it’s secure or what it costs us to actually perform an authentication. Both of those things could completely destroy our company or business model if we let them.&lt;/p&gt;
+
+&lt;p&gt;After the standup, I started working on transitioning all of our Trello tasks to Asana and getting Asana boards setup. With nine of us working on the company – holy shit we have nine people(!!!) – and having us divided up into different teams task-focused on the front end, back end, IOS agent, and Windows agent, not counting the three cofounders as a separate team working on business tasks related to getting funding and running the business, we had outgrown the Trello board and coordination was getting muddy. I’ve heard from several other CEOs that they followed the same progression – form company &amp;gt; Trello &amp;gt; grow in staff &amp;gt; outgrow Trello &amp;gt; move to Asana. My advice to anyone out there following in our footsteps, just start with Asana. I hate to say that though because I really do like the simplicity of Trello and have been a long time user.&lt;/p&gt;
+
+&lt;p&gt;We also talked about setting up Read-the-Docs (RTD) as a documentation repository. RTD will pull in your code from git and then build a documentation shell around it which would be helpful for us. We aren’t using Github, Gitlab, or Bitbucket, the only platforms they integrate with, so we’ll need to copy the code repo over to Bitbucket for it to work. I made the comment that using Bitbucket is an extra step, but not a bad thing, since we’ll end up with a secondary code repository in the event that something were to happen to CodeCommit in AWS, however unlikely that is.&lt;/p&gt;
+
+&lt;p&gt;After that I spent some time thinking about Stripe, Square, and credit card processing. I chatted with Paul mid-day and got his thoughts on skipping credit cards as a form of payment initially and just sticking with invoices.&lt;/p&gt;
+
+&lt;p&gt;My logic is this:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;First, Stripe, using it as a stereotype of all merchants we might use, charges us a set fee of about 3%, plus $.30 cents, for every transaction we run. The reality is that if we’re talking about using a per authentication model, we could have some users that never clear the $.30 cent hurdle and we’d lose money by actually having them pay us if they did less than 33 authentications. So there’s some kind of pricing minimum we need to set.&lt;/li&gt;
+  &lt;li&gt;Second, if we’re doing business-to-business sales, then there’s no reason we can’t send invoices out to customers and have them pay with Net 30 terms. Some companies may not want to use credit cards at all and require us to invoice their accounts payable team directly.&lt;/li&gt;
+  &lt;li&gt;Third, for our initial customers of lets say 50, we can generate the 50 invoices by hand and email them out. It’s not that much work that would have to be automated. With 1,000 small business customers, then yeah, we might need to take some credit cards. So we don’t need the automated capability initially – that means it’s not in scope for the prototype or MVP.&lt;/li&gt;
+  &lt;li&gt;Fourth, I don’t want to give up 3% of our revenue! I can send an invoice via email for almost free. If and when we’re making millions of dollars and have tons of customers and it costs us more to generate the invoices than just pay the 3%, then sure, we can start doing credit cards OR if there is some cash conversion cycle benefit at work.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So we agreed to ditch the credit card billing stuff which is good – it frees up development time and can get the prototype / MVP out faster.&lt;/p&gt;
+
+&lt;p&gt;After that I spent some time talking with Jon and setting up an S3 bucket for his and Isaiah’s web front end. We found some older stuff out there from March that I had built initially and deleted it because we no longer needed it and you pay for what you use in AWS. After that I moved on to getting some updates written here, re-heated some left over rack of lamb from the other day so I could eat lunch while I worked, and took a minute to change the laundry.&lt;/p&gt;
+
+&lt;p&gt;Tom called about then and he and I chatted for 20 minutes – mostly just bullshitting – while I ate. After he and I hung up, I went back to writing here. I really want to get this stuff back up to date.&lt;/p&gt;
+
+&lt;p&gt;Life, it seems, has a sense of satire and irony. I got a panicked ping on Slack from Jon at 3:33PM that said “call me”. That type of message is never good. So I called him and he basically said “I’m an idiot. I deleted the CodeCommit repository.” In layman’s terms what he was saying was:&lt;/p&gt;
+
+&lt;blockquote class=&quot;wp-block-quote&quot;&gt;
+  &lt;p&gt;
+    &lt;strong&gt;&lt;em&gt;&amp;#8220;HOLY FUCK I JUST DELETED ALL THE CODE WE&amp;#8217;VE WRITTEN FOR OUR PRODUCT!!!&amp;#8221;&lt;/em&gt;&lt;/strong&gt;
+  &lt;/p&gt;
+  
+  &lt;cite&gt;Jon&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I was doubtful that it was truly deleted, but understood Jon’s near-panic meltdown. I didn’t think CodeCommit stored files in S3, and ultimately I was right, but there was a moment there where I was like “ok, just another problem to solve.” I must be getting better at managing my stress levels.&lt;/p&gt;
+
+&lt;p&gt;I put a call into Paul, he said he’d take a look later on over the weekend but wasn’t overly afraid since we had local backups on everyone’s PCs and that he’d ping me back later. I jumped on a Zoom meeting with Jon and did some screensharing to check the code repository – all the code was still there. Jon was still getting a “can’t find files message” but at least we knew it was on his side and not the central code repo.&lt;/p&gt;
+
+&lt;p&gt;Life can be such a fickle bitch sometimes. Nice try, Life.&lt;/p&gt;
+
+&lt;p&gt;After that I went back to my writing here. Overall a good week. Things are moving so fast – it’s hard to keep it all in my head sometimes. My mood is generally positive, we’re making traction, and it’s amazing to see how much we’re changing week-over-week. I don’t have much of a history to compare it to, but it seems like we’re making pretty good progress.&lt;/p&gt;
+
+&lt;p&gt;Ohh, and Apple is up like 10% today after a really strong earnings report yesterday. My bank account needs that love – I’m almost out of money in savings so I’ll need to start tapping into my stock account in the next couple of weeks. I think out of all the stressors, money is the biggest one.&lt;/p&gt;</content><author><name>Daniel</name></author><category term="The Entrepreneur's Journey" /><summary type="html">Monday, July 27, 2020</summary></entry><entry><title type="html">[‘sc,] Solemn Carnage Filet Mignon</title><link href="http://localhost:4000/2020/07/30/sc-solemn-carnage-filet-mignon/" rel="alternate" type="text/html" title="[‘sc,] Solemn Carnage Filet Mignon" /><published>2020-07-30T11:27:51-04:00</published><updated>2020-07-30T11:27:51-04:00</updated><id>http://localhost:4000/2020/07/30/sc-solemn-carnage-filet-mignon</id><content type="html" xml:base="http://localhost:4000/2020/07/30/sc-solemn-carnage-filet-mignon/">&lt;p&gt;Like most of my recipes, this recipe has a back story. Feel free to skip to the end if you just want to get cooking.&lt;/p&gt;
+
+&lt;p&gt;It was 1999 and I stumbled onto a forum post about a new Half Life mod called Counter-Strike that was being developed by two college kids. The mod wasn’t done, but an early beta version was available for download. Counter-Strike was a first person shooter where you played as either a terrorist or counter-terrorist, basically like SWAT vs bad guys, and you had to rescue hostages. The concept sounded fun, and the graphics looked great, and after downloading the very first beta, I was in a word, hooked. &lt;a href=&quot;https://counterstrike.fandom.com/wiki/Counter-Strike_Beta&quot;&gt;Side note, the history of Counter-Strike is rather cool. Summary: two college kids hit it big by building something for free&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Counter-Strike consumed most of my social life for the next few years in the form of playing online with friends and coworkers. Bear in mind this was before high speed internet was widely available and 56k modems were still the de rigueur of the day. Low bandwidth connections to the internet were problematic for first person shooters back then because whichever player had the faster dialup connection usually won – he can see and shoot the other guy before the other player knows he’s there because of network latency.&lt;/p&gt;
+
+&lt;p&gt;The effect of the latency dynamic to gameplay was that once you found a server with a good connection speed (i.e. low ping rate, generally 150-250 milliseconds) then you tended to frequent the same server over and over. That means you’re playing with the same bunch of folks over and over and friendships develop.&lt;/p&gt;
+
+&lt;p&gt;After a year or so playing with the same group of folks, someone, I have no idea who it was, suggested that we form a clan (internet geek speak for team) and start competing against other teams in one of the leagues that were springing up around the game. We said why not, and so we registered for Team Warfare League (TWL). About a year later we took first place in TWL.&lt;/p&gt;
+
+&lt;p&gt;At some point in the post-win festivities, someone suggested in our IRC channel that we all get together since we’d never actually met before in person, yet basically talked every day for the last two years and knew each other well. After a bunch of back and forth, we decided to meet at one of the guy’s house in Boston over a weekend in September. About fifteen of us drove or flew up from all over the east coast – Florida, New York, Vermont, Georgia, Texas, and Rhode Island to name few. Ages ranged from 16 to 55 and from all different walks of life. I’ll go ahead and say it – yes, meeting strangers on the internet is weird. However, it’s not altogether much different than when you finally meet a coworker that works remotely and that you’ve talked to on the phone for two years, yet never seen.&lt;/p&gt;
+
+&lt;p&gt;On Saturday night, the night of our big celebration party, we opted to cook some steaks on the grill. One of the guys on our team, [‘sc,]2, or Sean in real life, was a chef in Providence. He looked in the cabinet, pulled out a mishmash of random stuff, and sent us to the store with a shopping list to get the rest. What follows is the recipe he used that night, and to date, is still the best steak I’ve ever had.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1 cup of extra virgin olive oil&lt;/li&gt;
+  &lt;li&gt;1/4 cup balsamic vinegar&lt;/li&gt;
+  &lt;li&gt;1/4 Worcestershire sauce&lt;/li&gt;
+  &lt;li&gt;1 TB spoon oregano&lt;/li&gt;
+  &lt;li&gt;1 TB spoon coarse kosher salt&lt;/li&gt;
+  &lt;li&gt;1 TB spoon ground black pepper&lt;/li&gt;
+  &lt;li&gt;Honey. I’d estimate about 1/4 cup, but I tend to just hold the Honey Bear upside down and squirt a bunch into the Ziploc.&lt;/li&gt;
+  &lt;li&gt;Filet mignon, 1 batch of marinade will handle about 4 medium sized steaks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Directions&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Put all the ingredients in a 1 gallon Ziploc bag, sans meat, and shake the bag well. That will mix everything together before you drop the meat in. Note, wrap the Ziploc seal around itself and hold it tightly or you will end up with marinade all over the kitchen. I know from experience.&lt;/p&gt;
+
+&lt;p&gt;After the marinade is mixed, drop the steak in and let it set for at least 2 hours, but longer is better. I generally try to get the steaks in the marinade the night before I cook them or at least in the morning around breakfast time. Note, if your refrigerator is very cold, the olive oil will congeal. Take it out every so often and shake things up, with the steak in the bag this time, to break up the congealing and make sure the meat is absorbing the flavors.&lt;/p&gt;
+
+&lt;p&gt;Cook the steaks on the grill, high direct heat ~500 degrees, charcoal works best rather than gas, and just be cautious of oil flare ups. A lot of the olive oil will soak into the meat and sometimes its best to let them sit on a plate and drain for 15-20 minutes while they come up to room temp. Cook to desired doneness, a medium-rare or medium is usually perfect. The honey will caramelize while cooking and you’ll end up with some very flavorful “crunchies” on the outside edges that are like little flavor bombs of Worcestershire, balsamic, and sweetness.&lt;/p&gt;</content><author><name>Daniel</name></author><category term="Mohawk Cooking" /><summary type="html">Like most of my recipes, this recipe has a back story. Feel free to skip to the end if you just want to get cooking.</summary></entry><entry><title type="html">Bourbon Salmon</title><link href="http://localhost:4000/2020/07/30/bourbon-salmon/" rel="alternate" type="text/html" title="Bourbon Salmon" /><published>2020-07-30T09:58:49-04:00</published><updated>2020-07-30T09:58:49-04:00</updated><id>http://localhost:4000/2020/07/30/bourbon-salmon</id><content type="html" xml:base="http://localhost:4000/2020/07/30/bourbon-salmon/">&lt;p&gt;A friend recently got a new Kamado Joe and made his inaugural cook a bourbon salmon. He passed along a copy to me to try since Kim loves salmon.&lt;/p&gt;
+
+&lt;p&gt;This is his recipe:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Brine &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 Tbsp kosher salt&lt;/li&gt;
+  &lt;li&gt;1 Tbsp brown sugar&lt;/li&gt;
+  &lt;li&gt;1/2 tsp onion powder&lt;/li&gt;
+  &lt;li&gt;1/2 tsp ground pepper&lt;/li&gt;
+  &lt;li&gt;3/4 cup water&lt;/li&gt;
+  &lt;li&gt;1/4 cup bourbon&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Glaze &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3 Tbsp honey&lt;/li&gt;
+  &lt;li&gt;1 Tbsp orange juice&lt;/li&gt;
+  &lt;li&gt;1 Tbsp orange zest&lt;/li&gt;
+  &lt;li&gt;1 tsp bourbon&lt;/li&gt;
+  &lt;li&gt;Fresh thyme, leaves from a few sprigs, to taste (Note: I forgot to add the bourbon to the glaze. Still good. )&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Directions&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mix the brine and let the fish marinate for one hour. Remove and then pat it dry with paper towels.&lt;/p&gt;
+
+&lt;p&gt;Get the grill going at 250 degrees F, grate temp, with heat deflectors in place. Put in a couple chunks of apple wood. Cook fish for for about 30-45 minutes or until it hits 140. USDA says to cook salmon to 145, but that’s a bit too well done for me.&lt;/p&gt;
+
+&lt;p&gt;Brush on glaze during last 5-10 minutes of cook or when it gets to about 125 degrees F.&lt;/p&gt;
+
+&lt;p&gt;Richard’s recommendation: Reduce salt and increase sugar to about 50/50. I used a farm raised salmon filet, just over an inch thick. Thinner fillets may take less time to avoid drying.&lt;/p&gt;</content><author><name>Daniel</name></author><category term="Mohawk Cooking" /><summary type="html">A friend recently got a new Kamado Joe and made his inaugural cook a bourbon salmon. He passed along a copy to me to try since Kim loves salmon.</summary></entry><entry><title type="html">Rack of Lamb</title><link href="http://localhost:4000/2020/07/30/rack-of-lamb/" rel="alternate" type="text/html" title="Rack of Lamb" /><published>2020-07-29T20:58:16-04:00</published><updated>2020-07-29T20:58:16-04:00</updated><id>http://localhost:4000/2020/07/30/rack-of-lamb</id><content type="html" xml:base="http://localhost:4000/2020/07/30/rack-of-lamb/">&lt;p&gt;This was a pretty simple recipe and a fairly easy cook. I modified it from &lt;a href=&quot;https://www.biggreenegg.eu/en/inspiration/recipes/grilled-rack-of-lamb&quot;&gt;here&lt;/a&gt;. I picked up the racks at Costco, it was about $20 per rack of about 1.5 lb.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Ingredients&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 racks of lamb&lt;/li&gt;
+  &lt;li&gt;1/2 sprig of Rosemary (chopped)&lt;/li&gt;
+  &lt;li&gt;1/2 sprig of Thyme (chopped)&lt;/li&gt;
+  &lt;li&gt;Sea salt&lt;/li&gt;
+  &lt;li&gt;6 cloves of Garlic (crushed)&lt;/li&gt;
+  &lt;li&gt;Yellow or Dijon Mustard&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Directions&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Fire up the grill to about 350-400, direct heat. I ran mine consistently at 400-420 and had no issues. I added one small piece of cherry wood, about the size of half a pack of cigarettes, once the coals were established and right before I put the lamb on.&lt;/li&gt;
+  &lt;li&gt;While the fire was getting up to temp, I slathered Dijon mustard on the outsides of the lamb (on the top where the meat is, I didn’t do any underneath), chopped up the rosemary, and chopped up the thyme. If I was using garlic I’d have chopped that up too.&lt;/li&gt;
+  &lt;li&gt;I then sprinkled the rosemary, thyme, and salt on the meat. Salt was about 2 pinches of salt per rack, spread evenly. Rosemary and thyme were put on a medium amount, about 1/4 sprig each rack.&lt;/li&gt;
+  &lt;li&gt;I skipped the garlic entirely since I’m allergic to it, but used Dijon instead of yellow mustard so the meat had a little more flavor. I’m sure it tastes great with garlic, but that’s a no go for me.&lt;/li&gt;
+  &lt;li&gt;I let it sit for ~20 minutes on the counter before the grill got up to temp.&lt;/li&gt;
+  &lt;li&gt;Put the meat on the grill, meat side down. Close the lid and let it sit for about 3 minutes.&lt;/li&gt;
+  &lt;li&gt;After those 3 minutes are up, rotate the meat up to a 45 degree angle, and let the bones rest on each other, kind of like when you form a steeple with your fingers. Let it cook this way for another 3 minutes with the lid closed.&lt;/li&gt;
+  &lt;li&gt;After those 3 minutes are up, flip the meat over so they are bone side down / meat side out, and then stand them up and lean them against each other. If you want to get really snazzy with it, then interlock the bones.&lt;/li&gt;
+  &lt;li&gt;Cook the meat to 130 degrees F for a medium-rare (more on the medium side) and then let it rest for 5-10 minutes under a foil tent.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And that’s it. Pretty easy and straight forward, prep time is quick, so it makes a pretty simple mid-week meal when you don’t have hours to tend the smoker.&lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img loading=&quot;lazy&quot; width=&quot;1200&quot; height=&quot;900&quot; src=&quot;http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.11.49-1200x900.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-1752&quot; srcset=&quot;http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.11.49-1200x900.jpg 1200w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.11.49-744x558.jpg 744w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.11.49-420x315.jpg 420w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.11.49-768x576.jpg 768w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.11.49-1536x1152.jpg 1536w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.11.49-2048x1536.jpg 2048w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.11.49-1070x803.jpg 1070w&quot; sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot; /&gt; &amp;lt;figcaption&amp;gt;&lt;em&gt;Meat prepped and ready to go on the grill&lt;/em&gt;&amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt; &lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;img loading=&quot;lazy&quot; width=&quot;1200&quot; height=&quot;900&quot; src=&quot;http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.53.22-1200x900.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-1753&quot; srcset=&quot;http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.53.22-1200x900.jpg 1200w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.53.22-744x558.jpg 744w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.53.22-420x315.jpg 420w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.53.22-768x576.jpg 768w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.53.22-1536x1152.jpg 1536w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.53.22-2048x1536.jpg 2048w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.53.22-1070x803.jpg 1070w&quot; sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot; /&gt;&amp;lt;figcaption&amp;gt;&lt;em&gt;Meat on the grill&lt;/em&gt;&amp;lt;/figcaption&amp;gt;&lt;/figure&gt; &lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;img loading=&quot;lazy&quot; width=&quot;1200&quot; height=&quot;900&quot; src=&quot;http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.58.37-1200x900.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-1754&quot; srcset=&quot;http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.58.37-1200x900.jpg 1200w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.58.37-744x558.jpg 744w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.58.37-420x315.jpg 420w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.58.37-768x576.jpg 768w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.58.37-1536x1152.jpg 1536w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.58.37-2048x1536.jpg 2048w, http://danielfrye.com/wp-content/uploads/2020/07/2020-07-29-19.58.37-1070x803.jpg 1070w&quot; sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot; /&gt;&amp;lt;figcaption&amp;gt;&lt;em&gt;Final product, fresh off the grill&lt;/em&gt;&amp;lt;/figcaption&amp;gt;&lt;/figure&gt;&lt;/p&gt;</content><author><name>Daniel</name></author><category term="Mohawk Cooking" /><summary type="html">This was a pretty simple recipe and a fairly easy cook. I modified it from here. I picked up the racks at Costco, it was about $20 per rack of about 1.5 lb.</summary></entry><entry><title type="html">Protected: Week 23</title><link href="http://localhost:4000/2020/07/26/week-23/" rel="alternate" type="text/html" title="Protected: Week 23" /><published>2020-07-25T22:34:00-04:00</published><updated>2020-07-25T22:34:00-04:00</updated><id>http://localhost:4000/2020/07/26/week-23</id><content type="html" xml:base="http://localhost:4000/2020/07/26/week-23/">&lt;h4 id=&quot;monday-july-20-2020&quot;&gt;Monday, July 20, 2020&lt;/h4&gt;
+
+&lt;p&gt;Monday went by in a blur. I sat down and was kind of like “ok, where do I need to focus my week” and then tried to get organized. It was challenging. We did the stand up at 10AM, then spent the afternoon getting organized and catching up on some articles I had flagged for reading.&lt;/p&gt;
+
+&lt;p&gt;Paul and I had a long conversation Tuesday, after the morning stand up, about hiring rockstar talent. Frankly, we can’t afford it. What we can do though is bring on people with passion, initiative, and curiosity. We can be a team of underdogs with the right mentality.&lt;/p&gt;
+
+&lt;p&gt;This takes me back to my MAD Security days and the early days at Cedar when I couldn’t hire existing talent. I had to find new talent. I hired a janitor that worked at Walmart – he was the most knowledgeable person about DNS I’ve ever met. I hired a guy fixing PCs at Best Buy – he was best problem solver I’ve ever worked with. I hired a guy right out of college that was working at the Apple store – he’s now the first Security Principal at Splunk just eight years later. I hired an accountant – he was one of the best, if not the best, security forensic investigators I’ve ever worked with.&lt;/p&gt;
+
+&lt;p&gt;The reason all of these diamonds in the rough worked out is because I was hiring them for skills and talents they had already. They were passionate, curious, and just needed an opportunity to apply what they had learned in their current roles and to apply their innate talents with problem solving, detail oriented work, or creating new ideas. All of them have since moved on to bigger things – making more money – doing jobs they enjoy. I hope I can make the same kind of impact with everyone that comes and goes from Rocketansky.&lt;/p&gt;
+
+&lt;p&gt;Case in point – I interviewed a guy named Dean, a retired nurse looking to get into computers so he could launch a healthcare startup, Tuesday morning. He seemed like a nice guy, he passed the curiosity and passion test, so voted him a yes and passed him to Tom for his interview.&lt;/p&gt;
+
+&lt;p&gt;Josh sent over the demo videos that he’d been working on Tuesday afternoon. They were ok, but not super. They make a couple leaps of faith, and part of me was wondering if I should just use pictures of the wireframes instead, but in the end figured they get the point across enough to demo it to DJ Wednesday morning.&lt;/p&gt;
+
+&lt;p&gt;Tuesday night we had our usual Founders call. We chatted through progress to date and went through our standing agenda. There wasn’t too much we discussed that isn’t covered in these updates, but generally revolved our discussion around immediate next steps and outstanding items – employee stock documents, staffing, increasing our development speed, and possible funding options in the future. We also talked about how we wanted to handle payments and credit card processing.&lt;/p&gt;
+
+&lt;p&gt;We also elected to start doing a weekly book report with Break All the Rules, one chapter a week, similar to what I did at Cedar. Many of the ideas in Break All the Rules I want to incorporate into Rocketansky and there’s nowhere better to start than with my two cofounders.&lt;/p&gt;
+
+&lt;p&gt;We also talked about time. Time is very fuzzy these days. We’ve only been developing for six weeks, but it feels like six months. I hope we’re making more progress than our competitors, but then again, if they’re heading into the wrong direction then god speed to them.&lt;/p&gt;
+
+&lt;p&gt;Paul came over on Wednesday. We did the usual stand up meeting at 10AM, then Paul and I chatted through backend design and what we wanted the customer portal to look like. I ended up putting it into Lucidchart and sending screens over to Jon to start working on. He was still struggling through the Windows agent and React stuff – this was a much better use of his time.&lt;/p&gt;
+
+&lt;p&gt;At 10:30, Paul and I met with DJ, a security friend of mine. I showed him the videos Josh had made on Tuesday and explained the core concept. DJ wasn’t as impressed as James was, but gave us the “maybe we can put it in over here”. That didn’t seem great. The door is still open, but … not wide open the way I want it to be.&lt;/p&gt;
+
+&lt;p&gt;I learned a couple things. First, the demo wasn’t nearly polished enough to show off. We need to have something “wow” to get people interested, even those people we know. Second, we need to do more of these calls, but it’s hard to do them without a product. Product, product, product. We HAVE to keep iterating and creating. If we don’t, we go nowhere. Product is king. Third, I was disappointed with the outcome.&lt;/p&gt;
+
+&lt;p&gt;My disappointment was real. I had higher expectations of myself and the demo. But I understand why we had the outcome we did. The video demo wasn’t baked enough and only showed how little we had, because all the heavy lifting was happening behind the scenes. What we had on the surface wasn’t indicative of the product’s capability overall. So we live and learn; fail and learn, and I hope, fail quickly and learn quickly. I think we did that with the demo to DJ.&lt;/p&gt;
+
+&lt;p&gt;At 2PM I watched Venture Deal AMA webinar on investing. I don’t remember much of it. What I did see seemed basic, then dropped off the call a little early so I could focus on getting real work done.&lt;/p&gt;
+
+&lt;p&gt;Thursday I had an interview with Isaiah, someone that Jon recommended. I liked him and decided to pass him on to Tom for the final interview. He doesn’t have a lot of experience but seemed passionate and had a desire to learn. That’s what we want our culture to be, we can teach the rest.&lt;/p&gt;
+
+&lt;p&gt;I had a design meeting with Jon for a bit so we could review the wireframes I drew up earlier in the week. We kind of know what we want things to look like, but need to start building them out and iterating. There’s a lot and lot of iterating. We do, we scrap, we re-do, we change, we experiment.&lt;/p&gt;
+
+&lt;p&gt;I also started on the restated operating agreement to setup employee option pool, but it was hard to focus and ultimately just punted until Friday.&lt;/p&gt;
+
+&lt;p&gt;We did get a nifty surprise on Thursday. Because I had completed 4 weeks of the Startup School updates, we were eligible for the “benefits package” from Startup School. Short version – we got $5,000 in AWS credit and a bunch of other grab bag discounts from various services. For us, since we’re literally burning our own bootstrapped cash, this was pretty awesome. I understand it means nothing to someone reading this because $5,000 doesn’t turn the world much these days.&lt;/p&gt;
+
+&lt;p&gt;Friday morning was an hour run at 6:30, once the sun was up and I could see, then back at my desk. I started going full speed pretty quickly, I think I took a shower break at some point, but honestly don’t remember. The day was filled with meetings, phone calls, and trying to get progress on the amended operating agreement.&lt;/p&gt;
+
+&lt;p&gt;I had an interview at 11, design meeting at 11:30 with Jon to talk about wireframes for the customer screens, and then an iPhone design meeting with Josh and Paul at 12:30 that ran until 1:30, or maybe 2:00. I skipped lunch and just kept cranking on everything that was in flight.&lt;/p&gt;
+
+&lt;p&gt;Friday afternoon, and most of the evening, I spent writing and tweaking the operating agreement template that my lawyer friend, Arn, sent over to me. I added in Drag-Along and Tag-Along rights based off language that he provided me and then tweaked the rest of the dual class restricted stock units as necessary. Some things we elected to change:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No Deadlock advisor – we don’t really need one since we have three founders and we can’t deadlock ourselves. Also, there isn’t anyone we trust enough to have decision making authority in the company so there’s that…&lt;/li&gt;
+  &lt;li&gt;Dual class of stock vs having a single class like we did before. Paul, Tom, and I have the voting Class-A stock. The Class-B stock went into the option pool and for later investment. Yes, I’m aware investors will want voting rights. We elected to keep 10% of the stock in the employee pool, the remaining 90% was split three ways.&lt;/li&gt;
+  &lt;li&gt;We included Drag-Along rights in the agreement so that we can compel minority shareholders to sell with us should we sell the company.&lt;/li&gt;
+  &lt;li&gt;We included Tag-Along rights in the agreement as well so that a potential acquirer will need to purchase all outstanding shares. That’s good for employees in that an acquirer can’t just buy the majority of the company and leave the employees out of an acquisition. While that means it’s possible we could lose a sale of the company, it’s the right thing to do for our employees in the future.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I also talked to Tom every 30-minutes and Paul about every 15 minutes. Basically, if I wasn’t on the phone with one, I was on with the other. I took a break for a spinach and cheese tortellini dinner at some point, but it was a short lived break before I dived back into work. I also played around with captable.io some more and the other tools under its umbrella.&lt;/p&gt;
+
+&lt;p&gt;We also got connected with a possible software engineer that knows Windows programming. He was a referral from Mark, one of our original Rocketansky founders, and after an email to him (Justin) we agreed to chat Saturday morning.&lt;/p&gt;
+
+&lt;p&gt;The interview Saturday morning went well. I liked him. He writes video games, knew Windows and Android programming so… yep, he’s in for my vote. I told him he needed to talk to Tom before we could extend an offer, then something happened worth mentioning.&lt;/p&gt;
+
+&lt;p&gt;Tom was coming over at noon. The interview was wrapping up about 11:45. Rather than end on the “great talking to you, I’ll pass Tom over your info and he’ll set up some time to talk to you next week” I took a dramatically different approach. Something I read recently – “Successful founders don’t wait in line”. The gist of it was this – get shit done. Find ways to get shit done. Fast. Get it done well. And certainly don’t wait in line for the sake of waiting in line.&lt;/p&gt;
+
+&lt;p&gt;With my new found approach to life, I asked him what he was doing that afternoon. Justin said he was free and flexible. I got his number, told him Tom would be in touch in roughly twenty to thirty minutes, and that I thought they’d get along great and it should be a quick, fun chat so that we could move forward that weekend (rather than waste a week). When Tom got to my house, I handed him a Post-It note with Justin’s number and said “call this guy”. Tom said ok, called him, chatted 15 minutes, and then said he was good to move forward. One week saved.&lt;/p&gt;
+
+&lt;p&gt;Tom and Paul came over on Saturday for a signing party to execute the amended operating agreement. Tom and I spent a couple hours talking through various things related to growth, sales, operating expectations, and cash flow. Basically all the stuff that makes us stay alive.&lt;/p&gt;
+
+&lt;p&gt;We also talked about what we do if we don’t get the NSF funding. We won’t hear anything back, best case, for another month or so. In the meantime, there’s two opportunities that we’ve found to get possible funding. The first is Y Combinator. It’s a long shot. YC is hard to get into … 99% rejection rate. No shit. The second is the Venture Atlanta conference in October. Submission requests are due by September, same with YC, with the Venture Atlanta conference presentations occurring October 21-22.&lt;/p&gt;
+
+&lt;p&gt;Both will give us exposure. No more cloak of invisibility and our competitors will know we exist. I kind of liking this sense of invisibility, I feel it increases our optionality. Now with that said, if we were to come out strong, with a good MVP and good customer feedback and a strong product… then that’s a whole new world for us. But we’re not there yet.&lt;/p&gt;
+
+&lt;p&gt;We don’t have a functioning prototype yet. I’m getting nervous. We need it ASAP. We’ve been “days away” for two weeks now. I’m hoping something comes together this upcoming week.&lt;/p&gt;
+
+&lt;p&gt;Saturday night I drove down to see my parents and enjoyed about 12 hours of non-work time. They of course wanted to hear how things were going, my mom and I spent a bit of time on the patio sipping bourbon after dinner, and gave her the details on everything going on in this head of mine. It was a good time connecting.&lt;/p&gt;
+
+&lt;p&gt;Sunday morning it was back to Atlanta and then back to work. I did a bit of reading throughout the day and sent out the NDAs and confidentiality agreements to the three new guys we were bringing on, I think I talked to Tom twice and Paul once, but generally was a pretty low key day in terms of work. My brain needed the break I think. I was in bed by 8, asleep by 8:45.&lt;/p&gt;
+
+&lt;p&gt;And that ended the week. Time travels slowly and in odd forms. I feel like we’re not getting enough done, but when I go back and read these diatribes I’m reminded of the week’s progress. So maybe these updates serve a purpose for me as well as you.&lt;/p&gt;</content><author><name>Daniel</name></author><category term="The Entrepreneur's Journey" /><summary type="html">Monday, July 20, 2020</summary></entry></feed>
